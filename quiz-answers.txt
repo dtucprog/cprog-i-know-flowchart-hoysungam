@@ -18,3 +18,10 @@ A compound condition tests multiple conditions at once.
 
 A condition has usually two flowlines going out of it, one for true and one for false.
 - Yes it does. 
+
+
+If we want to count from 1 to 10 in a flowchart, which of the following to we typically use?
+- Variable seems very reasonable. Since we're incrementing by one, count = 1 -> count = count + 1 ...
+
+
+
